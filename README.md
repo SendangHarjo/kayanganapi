@@ -1,2 +1,0 @@
-# kayanganapi
-Kayangan Api
